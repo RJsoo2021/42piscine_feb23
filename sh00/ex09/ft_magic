@@ -1,0 +1,7 @@
+# 1) Detect Files of 42 file type
+# 2) Built with a "42" string
+# 3) String must be at the 42nd byte
+
+# Offset  type of variable   what kind of file
+
+41 string 42 42 file
